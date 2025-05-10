@@ -1,0 +1,24 @@
+Unity.SceneManagment;
+Unity.UI;
+Unity.Pun;
+
+Prueba: MonoBehaviourPunCallbacks
+Player Player;
+Rigidbody rb;
+int Health;
+bool I'm_dead;
+float distance;
+float velocity;
+
+//Start is called on the first frame
+ void Start 
+{
+rb =GetComponent<Rigidbody>;
+velocity = 5
+Destroy.This
+}
+//Update is called every frame
+void Update 
+{
+
+}
