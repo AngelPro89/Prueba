@@ -20,5 +20,5 @@ Destroy.This
 //Update is called every frame
 void Update 
 {
-Print('Adios'
+
 }
